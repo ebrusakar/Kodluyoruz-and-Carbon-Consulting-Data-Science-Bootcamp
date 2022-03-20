@@ -18,8 +18,8 @@
 - Lineer ve Lojistik Regresyon
 - Decision Tree ve Random Forest
 - Titanic Project
-  - [X] [**HW3.1**](https://github.com/ebrusakar/Kodluyoruz-and-Carbon-Consulting-Data-Science-Bootcamp/blob/main/harry-potter-movies-dataset-eda.ipynb) - Harry Potter Movies Dataset EDA
-  - [X] [**HW3.2**](https://github.com/ebrusakar/Kodluyoruz-and-Carbon-Consulting-Data-Science-Bootcamp/blob/main/linear-reg-logistic-reg-random-forest.ipynb) - Linear Regression, Logistic Regression & Random Forest
+  - [X] [**HW3.1**](https://www.kaggle.com/code/ebruakar/harry-potter-movies-dataset-eda) - Harry Potter Movies Dataset EDA
+  - [X] [**HW3.2**](https://www.kaggle.com/code/ebruakar/linear-reg-logistic-reg-random-forest) - Linear Regression, Logistic Regression & Random Forest
 
 ## **Week 4**
 - Clustering, KNN, DBScan
