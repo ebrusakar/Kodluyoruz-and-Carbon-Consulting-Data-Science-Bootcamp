@@ -42,3 +42,4 @@
 - What is CNN?
 - What is Image Processing? How Image Processing is Used?
 - Examples of Image Processing Application
+  - [X] [**Final Project**](https://github.com/ebrusakar/Kodluyoruz-and-Carbon-Consulting-Data-Science-Bootcamp/blob/main/image-classification-using-cnn.ipynb) - CNN - Transfer Learning 
